@@ -23,8 +23,13 @@ System Requirements
 * Windows 10
 * curl
 
-Installation
+Installation (NOTE)
 ------------
+NOTE: The INSTALL.BAT file is not developed yet, you might want to run the commands, but nothing will happen afterall
 
 Coming Soon
 Newer Windows 10 Builds come with CURL by default.
+
+License
+--------
+P32 Is licensed as GNU General Public License v3, See LICENSE
