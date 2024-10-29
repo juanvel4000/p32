@@ -34,3 +34,7 @@ Run these commands:
    install.bat
 
 Newer Windows 10 Builds come with CURL by default.
+
+License
+--------
+P32 Is licensed as GNU General Public License v3, See LICENSE
