@@ -23,9 +23,9 @@ System Requirements
 * Windows 10
 * Any system that complies with the Windows 10 requirements will work
 
-Installation
+Installation (NOTE)
 ------------
-
+NOTE: The INSTALL.BAT file is not developed yet, you might want to run the commands, but nothing will happen afterall
 Run these commands:
 
 .. code-block:: shell
