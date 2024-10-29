@@ -34,3 +34,17 @@ Newer Windows 10 Builds come with CURL by default.
 License
 --------
 P32 Is licensed as GNU General Public License v3, See LICENSE
+
+Versions
+--------
+* P32 0.1
+Where to get it: p32.py.bak
+- Uses YAML
+- Slow
+- Buggy
+- Dated
+* P32 0.2
+Where to get it: p32.py
+- Newer
+- Uses CONF
+- Faster
