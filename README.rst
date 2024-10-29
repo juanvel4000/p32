@@ -26,6 +26,7 @@ System Requirements
 Installation (NOTE)
 ------------
 NOTE: The INSTALL.BAT file is not developed yet, you might want to run the commands, but nothing will happen afterall
+
 Run these commands:
 
 .. code-block:: shell
